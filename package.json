@@ -1,0 +1,33 @@
+{
+  "name": "cypress_autom_tasks",
+  "version": "1.0.0",
+  "description": "My Cypress Learning Tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asakef/Cypress_Autom_Tasks.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Oluwafunmike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asakef/Cypress_Autom_Tasks/issues"
+  },
+  "homepage": "https://github.com/Asakef/Cypress_Autom_Tasks#readme",
+  "dependencies": {
+    "cypress": "^13.7.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-fill-command": "^1.0.2",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-report-generator": "^6.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.1"
+  }
+}
